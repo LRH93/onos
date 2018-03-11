@@ -14,5 +14,6 @@
 !/onos-p4-dev/
 /onos-p4-dev/*
 !/onos-p4-dev/p4src/
+!/onos-p4-dev/tools/
 
 
