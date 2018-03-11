@@ -10,3 +10,9 @@
 !/ceshi/ceshi2/ceshi3/ceshi4/
 /ceshi/ceshi2/ceshi3/ceshi4/*
 !/ceshi/ceshi2/ceshi3/ceshi4/ceshi5.txt
+
+!/onos-p4-dev/
+/onos-p4-dev/*
+!/onos-p4-dev/p4src/
+
+
