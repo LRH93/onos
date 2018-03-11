@@ -1,5 +1,11 @@
 /*
 !.gitignore
-!/ceshi
+
+!/ceshi/
 /ceshi/*
 !/ceshi/ceshi2/
+/ceshi/ceshi2/*
+!/ceshi/ceshi2/ceshi3/
+/ceshi/ceshi2/ceshi3/*
+!/ceshi/ceshi2/ceshi3/ceshi4/
+/ceshi/ceshi2/ceshi3/ceshi4/*
