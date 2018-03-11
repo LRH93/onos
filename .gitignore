@@ -16,4 +16,6 @@
 !/onos-p4-dev/p4src/
 !/onos-p4-dev/tools/
 
-
+!/click-2.0.1/
+/click-2.0.1/*
+!/click-2.0.1/color/
