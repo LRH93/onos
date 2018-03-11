@@ -19,3 +19,7 @@
 !/click-2.0.1/
 /click-2.0.1/*
 !/click-2.0.1/color/
+!/click-2.0.1/elements/
+/click-2.0.1/elements/*
+!/click-2.0.1/elements/local/
+
