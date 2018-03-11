@@ -1,14 +1,5 @@
-假设只跟踪src，bin目录，做法如下
-#编辑.gitignore文件(vim .gitignore)
-#忽略所有文件，注意放在开头
 /*
-#不忽略文件本身
 !.gitignore
-!/onos-1.6.0/apps/
-
-
-
-
-
-
-
+!/ceshi
+/ceshi/*
+!/ceshi/ceshi2/
